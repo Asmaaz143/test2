@@ -6,6 +6,7 @@ public class Hello {
 		
 		
 		System.out.println("My java project");
+		System.out.println("My secound line of code");
 
 	}
 
